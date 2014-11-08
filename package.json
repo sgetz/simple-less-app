@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sgetz/simple-less-app/issues"
   },
-  "homepage": "https://github.com/sgetz/simple-less-app"
+  "homepage": "https://github.com/sgetz/simple-less-app",
+  "dependencies": {
+    "load-grunt-tasks": "^1.0.0"
+  }
 }
