@@ -1,4 +1,9 @@
-@head-color: red;
+@c: red;
+@rs: {color: blue};
 h1 {
-  color: @head-color;
+  color: @c;
+}
+
+h2 {
+    @rs();
 }
